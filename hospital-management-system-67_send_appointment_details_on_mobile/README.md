@@ -1,3 +1,8 @@
+## hospital management system
+o a comprehensive web-based application developed using the Laravel framework, designed to enhance the 
+efficiency and effectiveness of healthcare institutions and provides accurate and up-to-date patient records, 
+enables patients to book appointments with doctors, generation of invoices, tracking payments, enables 
+healthcare professionals to access and review patient diagnostic information
 
 ## Requirements
 - Php 8.1
